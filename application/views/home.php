@@ -11,6 +11,7 @@
             <h5>Links</h5>
             <ul>
                 <li><a href="/p/fit">Workout Log</a></li>
+                <li><a href="/p/food">Food Log</a></li>
             </ul>
         </div>
     </div>
